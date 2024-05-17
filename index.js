@@ -19,5 +19,5 @@ const setCustomUserClaims = async (uid) => {
 };
 
 // Primjer poziva funkcije s korisničkim UID-om
-const userUid = 'ZMbzOhtKqNhpsDfieXgTtg8a1hk1'; // Zamijenite s pravim UID-om korisnika
+const userUid = 'fGuxRWXebzMWqHrsOiU5pPHiOD23'; // Zamijenite s pravim UID-om korisnika
 setCustomUserClaims(userUid);
