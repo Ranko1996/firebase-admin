@@ -1,21 +1,3 @@
-// const express = require('express');
-// const admin = require('firebase-admin');
-// const router = express.Router();
-
-// // Ruta za dohvaćanje svih korisnika
-// router.get('/getUsers', async (req, res) => {
-//   const maxResults = 1000; // Maksimalan broj korisnika koji se mogu dohvatiti
-//   try {
-//     const listUsersResult = await admin.auth().listUsers(maxResults);
-//     res.send(listUsersResult.users);
-//   } catch (error) {
-//     console.error('Error fetching users:', error);
-//     res.status(500).send('Error fetching users');
-//   }
-// });
-
-// module.exports = router;
-
 
 const express = require('express');
 const admin = require('firebase-admin');
