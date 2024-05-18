@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web application for managing products built with the Angular framework and Firebase database. It also includes a mini Node.js project that serves for user authorization with admin privileges.
+This Node.js project serves as an authorization server for the Angular & Firebase Product Management Project. It handles user authorization with admin privileges using Firebase.
 
 ## Table of Contents
 
@@ -24,7 +24,8 @@ Before you begin, ensure you have the following installed:
    Clone the repository from GitHub:
    
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-    cd angular-project
-    npm install
-   npm run
+   git clone https://github.com/Ranko1996/firebase-admin.git
+   cd firebase-admin
+   npm install
+   node index.js
+
