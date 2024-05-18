@@ -7,9 +7,7 @@ This project is a web application for managing products built with the Angular f
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Project](#running-the-project)
-- [License](#license)
+- [Installation and running the project](#installation)
 
 ## Prerequisites
 
